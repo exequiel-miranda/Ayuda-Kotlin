@@ -49,6 +49,10 @@ https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/5c580be5-22f2-4
 
 https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/21278fbc-3fd0-4ffb-a368-46cc532b271f
 
+</br>
+
+https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/fde4040c-8431-48ca-b6ae-e3f908048053
+
 
 
 
