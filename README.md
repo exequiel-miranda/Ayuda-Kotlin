@@ -250,7 +250,7 @@ PEQUEÑO PARENTESIS: para el sistema operativo Android, las versiones tambien es
       <td>Aun no sale, está planeado para abril-mayo de 2024</td>
     </tr>
   </table>
-<Strong><h2>¿Cómo se instala?</h2></Strong></br>
+<Strong><h2>¿Cómo se instala Android Studio?</h2></Strong></br>
 Para instalarlo debemos descargar el ejecutable desde la página oficial:</br>
 https://developer.android.com/studio?hl=es-419  </br>
 Luego, clic en Descargar Android Studio </br>
