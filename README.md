@@ -117,12 +117,12 @@ Notas de la versión desde la página oficial: https://developer.android.com/stu
       <td style="background-color: #fffacd;">2023.3.1</td>
     </tr>
   </table>
-  <p>Avisaré en el canal de Teams salga esta versión🫣</p>
+  <p>Avisaré en el canal de Teams salga esta nueva versión🫣</p>
 
  
 PEQUEÑO PARENTESIS: para el sistema operativo Android, las versiones tambien están ordenadas alfabeticamente pero en lugar de animales usan golosinas:
 
-  <h2>Versiones de Android</h2>
+  <h2>Versiones de Android (Sistema operativo para teléfonos)</h2>
   <table>
     <tr>
       <th>Nombre</th>
