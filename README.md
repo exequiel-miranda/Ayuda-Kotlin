@@ -2,41 +2,43 @@
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
 
 > Tabla de contenidos que veremos en el módulo:
-> 1. Partes de Android Studio
-> 2. Carpetas de un proyecto
-> 3. Creación de emuladores
-> 4. Stuff: como llevar el proyecto en USB, como usar git, etc
-> 5. Activitys
-> 6. Modificar y crear Activitys
-> 7. Código inicial de una Activity
-> 8. POO en Kotlin
-> 9. Navegación entre pantallas
-> 10. Elementos visuales con XML
-> 11. Uso de Layouts
-> 12. Uso camara, microfono y perifericos
-> 13. Fragments
-> 14. Navigation Drawer
-> 15. Bottom Navigation
-> 16. RecyclerView
-> 17. Gradle
-> 18. Conexión a Bases de datos en Oracle
-> 19. Agregar datos
-> 20. Mostrar datos
-> 21. Eliminar datos
-> 22. Actualizar datos
-> 23. Conexión con Firebase
-> 24. Corrutinas
-> 25. Envío de correos eléctronicos
-> 26. Notificaciones a tiempo real
-> 27. Mapas y ubicación a tiempo real
-> 28. ViewBinding
-> 29. Inyección de dependencias con Dagger Hilt
-> 30. Publicación de la aplicación en la Play Store
-> 31. Testing
-> 32. Agregar anuncios con Google Ads
-> 33. Consumo de APIS con Retrofit
-> 34. Arquitectura de software MvvM
-> 35. Errores comunes
+> 1. ¿Qué es Kotlin?
+> 2. ¿Qué es Android Studio y como instalarlo?
+> 3. Partes de Android Studio
+> 4. Carpetas de un proyecto
+> 5. Creación de emuladores
+> 6. Stuff: como llevar el proyecto en USB, como usar git, etc
+> 7. Activitys
+> 8. Modificar y crear Activitys
+> 9. Código inicial de una Activity
+> 10. POO en Kotlin
+> 11. Navegación entre pantallas
+> 12. Elementos visuales con XML
+> 13. Uso de Layouts
+> 14. Uso camara, microfono y perifericos
+> 15. Fragments
+> 16. Navigation Drawer
+> 17. Bottom Navigation
+> 18. RecyclerView
+> 19. Gradle
+> 20. Conexión a Bases de datos en Oracle
+> 21. Agregar datos
+> 22. Mostrar datos
+> 23. Eliminar datos
+> 24. Actualizar datos
+> 25. Conexión con Firebase
+> 26. Corrutinas
+> 27. Envío de correos eléctronicos
+> 28. Notificaciones a tiempo real
+> 29. Mapas y ubicación a tiempo real
+> 30. ViewBinding
+> 31. Inyección de dependencias con Dagger Hilt
+> 32. Publicación de la aplicación en la Play Store
+> 33. Testing
+> 34. Agregar anuncios con Google Ads
+> 35. Consumo de APIS con Retrofit
+> 36. Arquitectura de software MvvM
+> 37. Errores comunes
 
 
 
