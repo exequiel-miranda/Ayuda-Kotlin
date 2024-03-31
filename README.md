@@ -5,8 +5,8 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > 1. ¿Qué es Kotlin?
 > 2. ¿Qué es Android Studio y como instalarlo?
 > 3. Partes de Android Studio
-> 4. Carpetas de un proyecto
-> 5. Creación de emuladores, HAXM
+> 4. Creación de emuladores
+> 5. Carpetas de un proyecto
 > 6. Stuff: como llevar el proyecto en USB, como usar git, etc
 > 7. Activitys
 > 8. Modificar y crear Activitys
@@ -293,10 +293,22 @@ https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/baaa13bc-25cd-4
 
 https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/c605bd48-1cde-4ae2-acf9-bda35e3b92a5
 
-## 4' Carpetas de un proyecto
+## 4' Creación de emuladores
+1- Para crear un emulador y ejecutar las aplicaciones que diseñemos debemos dar clic en la opción "Device manager":
+![option](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/83bfead4-76bc-4006-ab31-02b2e6fbfbfe)
+ </br>
+Aqui encontraremos los emuladores o el telefono fisico si lo tenemos conectado. </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/4003f4bb-cfa5-4c2a-b572-3e0d8930f7f2) </br></br>
+2- Clic en Create virtual device </br>
+![add](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/901246b6-7d83-487b-a16f-8bf53e7a2f1f)
+ </br>
 
-![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b0036f14-42ef-4b03-9e9a-99f17803bfbf)
 
+
+### 4.1' ¿Qué hacer si no funciona el emulador en mi computadora?
+Los emuladores Android están optimizados para procesadores Intel, en algunos casos, los procesadores AMD no permiten emular o virtualizar teléfonos Android. Tmabién puede pasar que aunque tengamos procesadores Intel no podamos instalar emuladores debido a una mala configuración de la computadora.
+
+Cosas que realizar si no funciona el emulador en mi computadora (Intel o AMD)
 
 
 
