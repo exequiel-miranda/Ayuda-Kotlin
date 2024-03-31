@@ -6,7 +6,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > 2. ¿Qué es Android Studio y como instalarlo?
 > 3. Partes de Android Studio
 > 4. Carpetas de un proyecto
-> 5. Creación de emuladores
+> 5. Creación de emuladores, HAXM
 > 6. Stuff: como llevar el proyecto en USB, como usar git, etc
 > 7. Activitys
 > 8. Modificar y crear Activitys
@@ -293,7 +293,9 @@ https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/baaa13bc-25cd-4
 
 https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/c605bd48-1cde-4ae2-acf9-bda35e3b92a5
 
+## 4' Carpetas de un proyecto
 
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b0036f14-42ef-4b03-9e9a-99f17803bfbf)
 
 
 
