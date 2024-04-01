@@ -313,9 +313,49 @@ Y luego clic en Finalizar
 
 
 ### 4.1' ¿Qué hacer si no funciona el emulador en mi computadora?
-Los emuladores Android están optimizados para procesadores Intel, en algunos casos, los procesadores AMD no permiten emular o virtualizar teléfonos Android. Tmabién puede pasar que aunque tengamos procesadores Intel no podamos instalar emuladores debido a una mala configuración de la computadora.
+Los emuladores Android están optimizados para procesadores Intel, en algunos casos, los procesadores AMD no permiten emular o virtualizar teléfonos Android. También puede pasar que aunque tengamos procesadores Intel no podamos instalar emuladores debido a una mala configuración de la computadora.
 
-Cosas que realizar si no funciona el emulador en mi computadora (Intel o AMD)
+Como primer sugerencia, si el emulador no funciona en nuestra computadora, podemos conectar nuestro telefono personal Android a nuestra computadora por cable (teniendo habilitada la depuración por USB) y podremos instalar las aplicaciones en neustro teléfono personal sin necesidad de emuladores. Para habilitar la depuración por USB en nuestro teléfono lo veremos más adelante en este repositorio, cuando vayamos a instalar una aplicación.
+
+Cosas que realizar si no funciona el emulador en mi computadora (Intel o AMD) </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/2fc6efe4-6459-43d7-bdfb-49d41e54f871)
+ </br> Esta advertencia aparece cuando damos clic en Ejecutar, y nos muestra la alerta que no podemos ejecutar el emulador por que nuestra computadora no tiene el driver HAXM, damos clic en <strong>OK</strong> y se empezará a descargar automaticamente.
+Pero, en muchos casos tendremos el siguiente error:</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/cadf7470-4475-4af6-8b24-bdf71d95968a) </br>
+Esto es por que nuestra maquina no acepta este driver. </br>
+Paso 1: Entrar al panel de control </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/a23e4b19-efdf-4e99-a809-d22e272e1639) </br>
+Luego, en Desinstalar un programa </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/39576661-1431-4404-b222-f5c274a01655) </br>
+Y en el panel de la izquierda, seleccionamos "Activar o desactivar las caracteristicas de Windows" </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/139ac833-6e23-4b42-b706-74532680bb51) </br>
+Y nos aseguramos de tener habilitado "Hyper V" y "Plataforma del hipervisor Windows" </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/48f266f7-691c-4012-8612-de3a0765c4b5)
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/32aa122f-14e8-424c-8a72-a77ae5501b44) </br>
+Reiniciamos el equipo y realizarmos una prueba del emulador</br></br>
+
+Paso 2: Si lo anterior no funciona, vamos a realizar otra configuración, dentro de Android Studio vamos a la configuración, y luego en SDK Manager, el SDK es "System Developed Kit" o Kit de Desarrollo de Software en español, es un kit de desarrollo que nos proporciona Android para poder programar aplicaciones.
+Vamos a configurarlo.</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/fa3c01c3-965b-4840-a61b-5677bae9a2ef) </br>
+Clic en la pestaña SDK Tools </br>
+![Screenshot 2024-04-01 095553](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/f084cc70-4542-4361-b8a9-7073696c969a)
+ </br>
+Y nos aseguramos de tener el instalador de HAXM </br>
+Si no está, lo marcamos, y precionamos en Aceptar, esto hará que se descargue y se instale
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/68f8f654-aec7-4f47-a28b-1a14c71682cb) </br></br>
+
+Si lo anterior no funciona, existe una ultima alternativa, habilitar la Tecnologia de virtualización de Intel desde el BIOS, pero, cada marca de computadoras tiene una BIOS diferente, hay muchas diferentes versiones de BIOS, asi que, les sugiero buscar en YouTube "¿Cómo habilitar la tecnologia de virtualización de Intel en mi computadora ______" 
+Antes de entrar a la BIOS (Por que es peligroso y podemos arruinar nuestra computadora si tocamos algo que no debemos en la BIOS) primero verifiquemos si tenemos esta tecnologia de virtualización desactivada, lo podemos ver desde el Administrador de Tareas en el apartado de "Rendimiento".</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/67fc5d6c-feb0-4061-b15c-39dfa02e22e7)
+</br>
+
+
+
+
+
+
+
+
 
 
 
