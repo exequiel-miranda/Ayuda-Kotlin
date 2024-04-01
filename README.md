@@ -409,8 +409,15 @@ Precionamos clic en "Next"
 Luego, tendremos que configurar nuestra aplicación llenando estos campos: </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b45de4d8-1d76-4a46-be2d-10b0febf38bb) </br>
 
-- Name: le colocamos el nombre a nuestra aplicación (Se sugiere no utilizar la letra ñ ni simbolos.
-- 
+- <strong>Name:</strong> le colocamos el nombre a nuestra aplicación (Se sugiere no utilizar la letra ñ ni simbolos).
+- <strong>Package name:</strong> el nombre del paquete, un paquete es como una carpeta, aqui se almacenará el código de programación de nuestra aplicación y sirve también como identificador de nuestra aplicación, por ejemplo, no pueden haber dos aplicaciones en la Play Store con el mismo nombre de paquete.
+- <strong>Save location:</strong> Ubicación donde se guardará el proyecto (Debe ser en una carpeta vacia, no se recomienda solamente seleccionar la USB, por ejemplo <strong>D:/</strong> por que se pondrán varias carpetas esparcidas en la usb, la manera correcta sería <strong>D:/carpeta/</strong> y guradarlo dentro de esta carpeta vacia).
+- <strong>Language:</strong> Si bien podemos programar aplicaciones con Kotlin y con Java, nosotros solamente utilizaremos Kotlin.
+- <strong>Minimum SDK:</strong> La versión minima en la que se podrá instalar la aplicación, si elejimos "Android 8" la aplicación se podrá instalar en teléfonos con Android 8 o superior. NOTA: No es recomendable irnos a la primer versión (4.1.1), por que, aunque podríamos instalar en todos los telefonos, perdemos funcionalidades que se han agregado en versiones recientes. Tampoco se recomienda seleccionar la versión más reciente de android (14.0) por que, aunque tengamos todas las nuevas funcionalidades, no hay muchos telefonos con esta versión, la mayoria de teléfonos actuales tienen versiones menores (11, 12, 13), entonces, un punto medio y que recomiendo elegir es Android 8.
+- <strong>Build configuration language:</strong> Gradle (Que es lo que nos ayuda a compilar y agregar librerias a mi proyecto) tiene dos formas de crearse, usando Groovy (versión anterior) o usando Kotlin (versión nueva), nosotros dejaremos la nueva versión de Kotlin (que ya viene por defecto).
+  
+Entonces, al crear una aplicación, nos quedará asi: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b45de4d8-1d76-4a46-be2d-10b0febf38bb)</br>
 
 
 
