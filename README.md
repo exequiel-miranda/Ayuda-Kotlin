@@ -8,7 +8,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > 4. Creación de emuladores
 > 5. Carpetas de un proyecto
 > 6. Stuff: como llevar el proyecto en USB, como usar git, etc
-> 7. Activitys
+> 7. Creación de un proyecto
 > 8. Modificar y crear Activitys
 > 9. Código inicial de una Activity
 > 10. POO en Kotlin
@@ -393,6 +393,25 @@ Entonces, las carpetas mas importantes y que siempre tendremos abiertas serán: 
 <strong>2. res -> layout</strong>  Para el diseño de las pantallas
 </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/35c60898-db30-4a03-808d-70503f92f3d9) </br>
+
+
+## 7' Creación de un nuevo proyecto
+
+Damos clic en el menú principal </br>
+![Menu](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/0ffb6f7b-4523-4e1e-bc23-099ca45873ea)  </br>
+Luego en File -> New -> New project </br>
+![new](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/ec07303c-f11f-4091-9096-bdbb7a84b2e7) </br>
+Y podremos ver las plantillas de aplicaciones que podemos crear </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/157bdbdc-f073-434a-80ef-f32ba0b46696) </br>
+Por el momento, crearemos aplicaciones usando la plantilla Empty Views Activity, luego utilizaremos todas. </br>
+Precionamos clic en "Next"
+
+Luego, tendremos que configurar nuestra aplicación llenando estos campos: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b45de4d8-1d76-4a46-be2d-10b0febf38bb) </br>
+
+- Name: le colocamos el nombre a nuestra aplicación (Se sugiere no utilizar la letra ñ ni simbolos.
+- 
+
 
 
 
