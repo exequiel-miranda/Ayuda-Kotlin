@@ -347,7 +347,16 @@ Si no está, lo marcamos, y precionamos en Aceptar, esto hará que se descargue 
 Si lo anterior no funciona, existe una ultima alternativa, habilitar la Tecnologia de virtualización de Intel desde el BIOS, pero, cada marca de computadoras tiene una BIOS diferente, hay muchas diferentes versiones de BIOS, asi que, les sugiero buscar en YouTube "¿Cómo habilitar la tecnologia de virtualización de Intel en mi computadora ______" 
 Antes de entrar a la BIOS (Por que es peligroso y podemos arruinar nuestra computadora si tocamos algo que no debemos en la BIOS) primero verifiquemos si tenemos esta tecnologia de virtualización desactivada, lo podemos ver desde el Administrador de Tareas en el apartado de "Rendimiento".</br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/67fc5d6c-feb0-4061-b15c-39dfa02e22e7)
-</br>
+</br></br>
+
+## 5' Carpetas de un proyecto
+En el modo de vista "Android" encontramos la siguiente estructura de carpetas que conforman nuestro proyecto: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/c8574002-8f2f-40c5-838c-db5d5aa56c8f) </br>
+El proyecto o módulo principal que contiene a toda nuestra aplicación se llama "app".
+Dentro de este módulo principal encontramos a las carpetas:
+- manifest
+- kotlin + java
+- res
 
 
 
