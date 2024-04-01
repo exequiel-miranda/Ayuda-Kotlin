@@ -358,6 +358,33 @@ Dentro de este módulo principal encontramos a las carpetas:
 - kotlin + java
 - res
 
+1. La carpeta <strong>manifest</strong> solamente contiene el archivo <strong>AndroidManifest.xml</strong> no contiene ni va a xontener nada más, solo este archivo: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/2968d99d-7795-493c-bffb-763d00474de2) </br>
+AndroidManifest.xml: Este fichero describe la aplicación Android y sus configuraciones externas. Se define su nombre, paquete, icóno, estilos, etc. Se indican las Activitys, los servicios y los proveedores de contenido de la aplicación. También se declaran los permisos que requerirá la aplicación.
+
+2. La carpeta <strong>kotlin + java</strong> en versiones anteriores llamada solamente <strong>java</strong> contiene toda la parte de programción de nuestra aplicación. Por ejemplo, si quiero programar la conexión a la base de datos, pues ese código estará en esta carpeta (Especificamente, dentro de la carpeta o "paquete" que definimos al crear nuestra aplicación). Para llevar un orden, este paquete debe llevar nuestro nombre seguido del nombre de la aplicación, todo separado por puntos).
+Al creear una nueva aplicación, viene por defecto el código de la MainActivity o pantalla inicial, además, podemos ver dos carpetas en verde que sirven para hacer testeos de nuestra aplicación: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/38a646d5-ca98-456c-ad0b-70913046997d)
+</br>Si tenemos 10 pantallas, aqui encontraremos los archivos de código de esas 10 pantallas.</br>
+
+3. La carpeta <strong>res</strong> que su nombre completo sería <strong>resources</strong> contiene los recursos visuales de nuestra aplicación.
+   Esta carpeta se divide en más carpetas para organizar estos recursos visuales de nuestra app.
+   - drawable
+   - layout
+   - mipmap
+   - values
+   - xml
+  
+  ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/f379f22f-63c6-4edd-9338-0b39fcb4bd7f)</br>
+
+  Que se explican a continuación:</br>
+  - drawable: Contiene todas las imágenes, iconos, videos de nuestra aplicación, por ejemplo, el logo de la empresa, la imagénes de los productos, etc.
+  - layout: Contiene las Activitys o pantallas de nuestra aplicación, por ejemplo, la pantalla del login, pantalla de productos, etc.
+  - mipmap: Contiene el icóno de la aplicación, y también se puede utilizar para guardar iconos de extensiones .svg o .xml.
+  - values: Contiene ficheros XML de recursos de la aplicación, estos recursos los escribimos aqui, y luego solo los mandamos a llamar, como por ejemplo cadenas de texto (strings.xml), estilos (styles.xml), colores (colors.xml), esto simplifica la creación de aplicaciones por que los definimos al inicio de la aplicación y ya no tenemos que estar recondando el eslogan o los colores que usamos repetidas veces en nuestra aplicación.
+  - xml: Contiene otros ficheros XML de datos utilizados por la aplicación.
+
+
 
 
 
