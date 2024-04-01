@@ -302,6 +302,13 @@ Aqui encontraremos los emuladores o el telefono fisico si lo tenemos conectado. 
 2- Clic en Create virtual device </br>
 ![add](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/901246b6-7d83-487b-a16f-8bf53e7a2f1f)
  </br>
+3- Luego, debemos completar los pasos para crear el emulador, primero, seleccionamos que teléfono queremos (Recomiendo el Pixel 6):  </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b5f714a6-2876-4d48-ab68-86654bdcae01) </br>
+Seleccionamos la versión de sistema operativo Android para nuestro emulador (Recomiendo R o si no, S):  </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/5b2802ea-58b9-48a3-8d83-e7206eb4b5a2) </br>
+Le colocamos un nombre (Podemos dejar el nombre por defecto: </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/6795b522-9faa-45b1-9661-93f70627ef52)</br>
+Y luego clic en Finalizar
 
 
 
