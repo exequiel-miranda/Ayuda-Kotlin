@@ -360,7 +360,10 @@ Dentro de este módulo principal encontramos a las carpetas:
 
 1. La carpeta <strong>manifest</strong> solamente contiene el archivo <strong>AndroidManifest.xml</strong> no contiene ni va a xontener nada más, solo este archivo: </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/2968d99d-7795-493c-bffb-763d00474de2) </br>
-AndroidManifest.xml: Este fichero describe la aplicación Android y sus configuraciones externas. Se define su nombre, paquete, icóno, estilos, etc. Se indican las Activitys, los servicios y los proveedores de contenido de la aplicación. También se declaran los permisos que requerirá la aplicación.
+AndroidManifest.xml: Este fichero describe la aplicación Android y sus configuraciones externas. Se define su nombre, paquete, icóno, estilos, etc. Se indican las Activitys, los servicios y los proveedores de contenido de la aplicación. También se declaran los permisos que requerirá la aplicación. </br>
+Ejemplo de como es el AndroidManifest.xml:</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/75f6f161-b2e0-4e8d-9892-eaa96bfa8a09) </br>
+
 
 2. La carpeta <strong>kotlin + java</strong> en versiones anteriores llamada solamente <strong>java</strong> contiene toda la parte de programción de nuestra aplicación. Por ejemplo, si quiero programar la conexión a la base de datos, pues ese código estará en esta carpeta (Especificamente, dentro de la carpeta o "paquete" que definimos al crear nuestra aplicación). Para llevar un orden, este paquete debe llevar nuestro nombre seguido del nombre de la aplicación, todo separado por puntos).
 Al creear una nueva aplicación, viene por defecto el código de la MainActivity o pantalla inicial, además, podemos ver dos carpetas en verde que sirven para hacer testeos de nuestra aplicación: </br>
@@ -378,11 +381,19 @@ Al creear una nueva aplicación, viene por defecto el código de la MainActivity
   ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/f379f22f-63c6-4edd-9338-0b39fcb4bd7f)</br>
 
   Que se explican a continuación:</br>
-  - drawable: Contiene todas las imágenes, iconos, videos de nuestra aplicación, por ejemplo, el logo de la empresa, la imagénes de los productos, etc.
-  - layout: Contiene las Activitys o pantallas de nuestra aplicación, por ejemplo, la pantalla del login, pantalla de productos, etc.
-  - mipmap: Contiene el icóno de la aplicación, y también se puede utilizar para guardar iconos de extensiones .svg o .xml.
-  - values: Contiene ficheros XML de recursos de la aplicación, estos recursos los escribimos aqui, y luego solo los mandamos a llamar, como por ejemplo cadenas de texto (strings.xml), estilos (styles.xml), colores (colors.xml), esto simplifica la creación de aplicaciones por que los definimos al inicio de la aplicación y ya no tenemos que estar recondando el eslogan o los colores que usamos repetidas veces en nuestra aplicación.
-  - xml: Contiene otros ficheros XML de datos utilizados por la aplicación.
+  - <strong>drawable:</strong> Contiene todas las imágenes, iconos, videos de nuestra aplicación, por ejemplo, el logo de la empresa, la imagénes de los productos, etc.
+  - <strong>layout:</strong> Contiene las Activitys o pantallas de nuestra aplicación, por ejemplo, la pantalla del login, pantalla de productos, etc. Esta carpeta es muy importante, y siempre la tendremos abierta para tener a mano el diseño de nuetras pantallas.
+  - <strong>mipmap:</strong> Contiene el icóno de la aplicación, y también se puede utilizar para guardar iconos de extensiones .svg o .xml.
+  - <strong>values:</strong> Contiene ficheros XML de recursos de la aplicación, estos recursos los escribimos aqui, y luego solo los mandamos a llamar, como por ejemplo cadenas de texto (strings.xml), estilos (styles.xml), colores (colors.xml), esto simplifica la creación de aplicaciones por que los definimos al inicio de la aplicación y ya no tenemos que estar recondando el eslogan o los colores que usamos repetidas veces en nuestra aplicación.
+  - <strong>xml:</strong> Contiene otros ficheros XML de datos utilizados por la aplicación.
+
+
+Entonces, las carpetas mas importantes y que siempre tendremos abiertas serán: </br>
+<strong>1. kotlin + java -> nuestro paquete</strong> Para el código de programación de las pantallas</br>
+<strong>2. res -> layout</strong>  Para el diseño de las pantallas
+</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/35c60898-db30-4a03-808d-70503f92f3d9) </br>
+
 
 
 
