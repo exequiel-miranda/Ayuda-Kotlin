@@ -421,9 +421,40 @@ Entonces, al crear una aplicación, nos quedará asi: </br>
 
 
 
+## 9' Código inicial de una Activity
 
+Es el código que viene por defecto para cada pantalla, por ejemplo, si usted crea la pantalla "Login" esa pantalla tendrá un archivo de código Kotlin para programar los botones, animaciones, funciones, etc.
 
+Ejemplo:
+  ~~~kotlin
+1 package com.example.mi_aplicacion
+2
+3 import android.os.Bundle
+4 import android.widget.Button
+5 import android.widget.TextView
+6 
+7 class MainActivity : AppCompatActivity() {
+8
+9    override fun onCreate(savedInstanceState: Bundle?) {
+10        super.onCreate(savedInstanceState)
+11       setContentView(R.layout.activity_main)
+12    }
+13 }
+~~~
 
+Y es apartir de este código que agregaremos funcionalidad a la pantalla.
+Antes de eso, explicaré linea a linea que hace este código:
+  ~~~kotlin
+ 1 package com.example.mi_aplicacion
+~~~
+Este es el paquete en el que se encuentra el código, el paquete es la carpeta principal que definimos su nombre al crear la aplicación.
+
+  ~~~kotlin
+3 import android.os.Bundle
+4 import android.widget.Button
+5 import android.widget.TextView
+~~~
+Luego, tenemos el apartado de los imports, que importa las librerias, por ejemplo, al conectarnos a una base de datos Oracle necesitamos una libreria, entonces, aqui es donde se manda llamar. Tambien se manda a llamar las librerias de los boones, editText y demás elementos de manera automatica.
 
 
 
