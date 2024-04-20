@@ -294,7 +294,7 @@ https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/baaa13bc-25cd-4
 https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/c605bd48-1cde-4ae2-acf9-bda35e3b92a5
 
 ## 4' Creación de emuladores
-1- Para crear un emulador y ejecutar las aplicaciones que diseñemos debemos dar clic en la opción "Device manager":
+1- Para crear un emulador y ejecutar las aplicaciones que diseñemos debemos dar clic en la opción "Device manager": </br>
 ![option](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/83bfead4-76bc-4006-ab31-02b2e6fbfbfe)
  </br>
 Aqui encontraremos los emuladores o el telefono fisico si lo tenemos conectado. </br>
