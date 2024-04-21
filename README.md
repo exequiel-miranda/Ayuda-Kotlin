@@ -9,7 +9,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > 5. Carpetas de un proyecto
 > 6. Stuff: como llevar el proyecto en USB, como usar git, etc
 > 7. Creación de un proyecto
-> 8. Modificar y crear Activitys
+> 8. Crear Activitys
 > 9. Código inicial de una Activity
 > 10. POO en Kotlin
 > 11. Navegación entre pantallas
@@ -394,6 +394,21 @@ Entonces, las carpetas mas importantes y que siempre tendremos abiertas serán: 
 </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/35c60898-db30-4a03-808d-70503f92f3d9) </br>
 
+## 6' Stuff: como llevar el proyecto en USB, como usar git, etc
+### Como iniciar git en un proyecto
+1. Damos clic derecho en la carpeta 'app' </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/3752a78e-230e-450e-b593-f3f9cb6b22eb) </br>
+Luego en Open In... y en "Explorer"</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/37be7463-63cd-445c-b7f4-0ebf639b995e)</br>
+Y nos abre la carpeta que contiene el proyecto, ahi podemos dar clic derecho, "Open Git Bash Here"</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/0055088c-1069-429b-8648-2f7a2aeb300b)</br>
+
+### Como llevarse el proyecto en una USB
+Seguimos los pasos anteriores y llegamos a la carpeta del proyecto, solamente retrocedemos una carpeta atrás</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/5ee3776c-319c-4716-b26f-88fed3300fd5)</br>
+Y ya nos podemos llevar la carpeta completa en su USB copiando y pegando toda la carpeta:</br>
+![mod screenshot 2024-04-21 124823](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/4fa5e1e0-bff4-46de-85d8-e2e1d6223d51)</br>
+
 
 ## 7' Creación de un nuevo proyecto
 
@@ -419,6 +434,14 @@ Luego, tendremos que configurar nuestra aplicación llenando estos campos: </br>
 Entonces, al crear una aplicación, nos quedará asi: </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b45de4d8-1d76-4a46-be2d-10b0febf38bb)</br>
 
+## 8' Crear Activitys
+Una activity es una pantalla de nuestra aplicación. </br>
+Para crear una Activity nueva, debemos dar clic derecho en la carpeta Layout</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/bef6f6f3-09db-4f79-b547-6ccfb6e2bb5e)</br>
+Luego, clic en New - Activity - elegimos una plantilla (En este caso Empty View Activity)</br>
+![crearactivity](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/3d44d9ad-09f7-46ea-b091-be5b5c920268)</br>
+Y le colocamos un nombre (Se aconseja que empiecen con "activity_" </br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/af03f97f-8d17-4a50-85b2-3a07ec95888e)</br>
 
 
 ## 9' Código inicial de una Activity
