@@ -436,7 +436,7 @@ Ejemplo:
 7 class MainActivity : AppCompatActivity() {
 8
 9    override fun onCreate(savedInstanceState: Bundle?) {
-10        super.onCreate(savedInstanceState)
+10       super.onCreate(savedInstanceState)
 11       setContentView(R.layout.activity_main)
 12    }
 13 }
@@ -444,20 +444,51 @@ Ejemplo:
 
 Y es apartir de este código que agregaremos funcionalidad a la pantalla.
 Antes de eso, explicaré linea a linea que hace este código:
+Este es el paquete en el que se encuentra el código, el paquete es la carpeta principal que definimos su nombre al crear la aplicación. </br>
   ~~~kotlin
  1 package com.example.mi_aplicacion
 ~~~
-Este es el paquete en el que se encuentra el código, el paquete es la carpeta principal que definimos su nombre al crear la aplicación.
+</br>
+Luego, tenemos el apartado de los imports, que importa las librerias, por ejemplo, al conectarnos a una base de datos Oracle necesitamos una libreria, entonces, aqui es donde se manda llamar. Tambien se manda a llamar las librerias de los boones, editText y demás elementos de manera automatica.
 
   ~~~kotlin
 3 import android.os.Bundle
 4 import android.widget.Button
 5 import android.widget.TextView
 ~~~
-Luego, tenemos el apartado de los imports, que importa las librerias, por ejemplo, al conectarnos a una base de datos Oracle necesitamos una libreria, entonces, aqui es donde se manda llamar. Tambien se manda a llamar las librerias de los boones, editText y demás elementos de manera automatica.
+</br>
+Luego, encontramos la clase principal, que extiende de la clase AppCompatActivity, sabemos que una clase extiende de otra por los dos puntos.
 
 
+![clasemod](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/cd2c7252-28ec-43a9-a0d0-7aa8d3c3bc68)
+ </br> </br>
+Luego, Dentro de la clase principal, encontramos el método onCreate, este método es el que se ejecuta cuando iniciamos la aplicación.
 
+  ~~~kotlin
+9    override fun onCreate(savedInstanceState: Bundle?) {
+10       super.onCreate(savedInstanceState)
+11       setContentView(R.layout.activity_main)
+12    }
+~~~
+<h2>Explicación linea a linea del método onCreate:</h2>
+Esta línea define el método onCreate, el cual es un método de ciclo de vida obligatorio que se llama cuando se crea la actividad por primera vez. La palabra clave override indica que se está sobrescribiendo esta función.
+
+savedInstanceState: Este parámetro es un objeto Bundle que contiene el estado de la actividad guardado en una instancia previa. Puede ser null si la actividad se está creando por primera vez o si no se ha guardado ningún estado.
+  ~~~kotlin
+9    override fun onCreate(savedInstanceState: Bundle?) {
+~~~
+Luego,
+  ~~~kotlin
+10       super.onCreate(savedInstanceState)
+~~~
+El propósito de llamar a super.onCreate es realizar las tareas iniciales que son comunes a todas las actividades, como inicializar los componentes de la actividad y configurar los oyentes de eventos. Al llamar a super.onCreate antes de escribir nuestro código en el método onCreate, nos aseguramos que todas las tareas básicas se realicen correctamente antes de continuar con la lógica específica de la activity.
+La palabra clave super se utiliza para acceder a los métodos de la clase base. En este caso, super se refiere a la clase Activity.
+El parámetro savedInstanceState es un objeto Bundle que contiene el estado de la actividad guardado en una instancia previa. Si la actividad se está creando por primera vez, este parámetro será null, si no, como su nombre lo indica, guarda el estado de la instancia.
+
+  ~~~kotlin
+11       setContentView(R.layout.activity_main)
+~~~
+Esta línea establece el diseño de la interfaz de usuario de la actividad. El parámetro R.layout.activity_main hace referencia al archivo de diseño XML activity_main.xml que define la interfaz de usuario de la actividad principal.
 
 
 
