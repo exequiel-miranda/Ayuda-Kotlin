@@ -409,6 +409,16 @@ Seguimos los pasos anteriores y llegamos a la carpeta del proyecto, solamente re
 Y ya nos podemos llevar la carpeta completa en su USB copiando y pegando toda la carpeta:</br>
 ![mod screenshot 2024-04-21 124823](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/4fa5e1e0-bff4-46de-85d8-e2e1d6223d51)</br>
 
+### ¿Cómo habilitar la New UI en Android Studio?
+En versiones anteriores, Android Studio tenia una versión diferente a la que vemos en el laboratorio:</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/7696326e-daa9-461f-a763-d35c46d4fda5) </br>
+Pero, en la versión Hedgehog (Una versión anterior a Iguana) se actualizó a una interfaz mucho más intuitiva, y con menos iconos y funciones innecesarias en pantalla:</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/32379ea7-9b42-41ed-818a-eb5b6bdb46b2)
+Es por eso que algunos tutoriales de hace algunos meses aun tienen la interfaz anterior.</br>
+Pero, si usted quiere habilitar esta nueva interfaz, debe seguir estos pasos:</br>
+![Untitled](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/cb4a96a9-faef-4797-95ff-e90b3aa7f43d)
+
+
 
 ## 7' Creación de un nuevo proyecto
 
@@ -433,6 +443,8 @@ Luego, tendremos que configurar nuestra aplicación llenando estos campos: </br>
   
 Entonces, al crear una aplicación, nos quedará asi: </br>
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/b45de4d8-1d76-4a46-be2d-10b0febf38bb)</br>
+
+
 
 ## 8' Crear Activitys
 Una activity es una pantalla de nuestra aplicación. </br>
