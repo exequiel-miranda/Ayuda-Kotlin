@@ -416,8 +416,11 @@ Pero, en la versión Hedgehog (Una versión anterior a Iguana) se actualizó a u
 ![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/32379ea7-9b42-41ed-818a-eb5b6bdb46b2)
 Es por eso que algunos tutoriales de hace algunos meses aun tienen la interfaz anterior.</br>
 Pero, si usted quiere habilitar esta nueva interfaz, debe seguir estos pasos:</br>
+Clic en File -> Settings
 ![Untitled](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/cb4a96a9-faef-4797-95ff-e90b3aa7f43d)
-
+Luego, clic en la primer categoria de Apariencia, seleccionar New UI y habilitarla:</br>
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/7979c1d2-89f2-4cfd-830d-2007d6524ec9)</br>
+Pedirá que reiniciemos Android Studio y listo
 
 
 ## 7' Creación de un nuevo proyecto
