@@ -3,7 +3,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 <br><br>
 > Tabla de contenidos que veremos en el módulo:<br><br>
 > [1. ¿Qué es Kotlin?](#qué-es-kotlin)<br>
-> 2. ¿Qué es Android Studio y como instalarlo?<br>
+> [2. ¿Qué es Android Studio y como instalarlo?](#2-qué-es-android-studio)<br>
 > 3. Partes de Android Studio<br>
 > 4. Creación de emuladores<br>
 > 5. Carpetas de un proyecto<br>
