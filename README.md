@@ -12,7 +12,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [8. Crear Activitys](#8-crear-activitys)<br>
 > [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
 > [10. POO en Kotlin]()<br>
-> [11. Navegación entre pantallas]()<br>
+> [11. Navegación entre pantallas()<br>
 > [12. Elementos visuales con XML]()<br>
 > [13. Uso de Layouts]()<br>
 > [14. Uso camara, microfono y perifericos]()<br>
