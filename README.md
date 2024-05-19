@@ -11,8 +11,8 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [7. Creación de un proyecto](#7-creación-de-un-nuevo-proyecto)<br>
 > [8. Crear Activitys](#8-crear-activitys)<br>
 > [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
-> [10. POO en Kotlin]()<br>
-> [11. Navegación entre pantallas<br>
+> [10. Variables y POO (funciones, try catch, herencia, etc.)]
+> [11. Navegación entre pantallas
 > [12. Elementos visuales con XML<br>
 > [13. Uso de Layouts<br>
 > [14. Uso camara, microfono y perifericos<br>
@@ -524,6 +524,9 @@ El parámetro savedInstanceState es un objeto Bundle que contiene el estado de l
 ~~~
 Esta línea establece el diseño de la interfaz de usuario de la actividad. El parámetro R.layout.activity_main hace referencia al archivo de diseño XML activity_main.xml que define la interfaz de usuario de la actividad principal.
 
+## 10' POO en Kotlin
+
+Antes de empezar a hablar de herencia, encapsulamiento y otras cosas de la programación orientada a objetos, veo conveniente hablar 
 
 
 
