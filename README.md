@@ -2,7 +2,7 @@
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
 
 > Tabla de contenidos que veremos en el módulo:
-> * [Introducción](#introduccion)
+- [Introducción](#introduccion)
 > 1. ¿Qué es Kotlin?
 > 2. ¿Qué es Android Studio y como instalarlo?
 > 3. Partes de Android Studio
@@ -56,7 +56,7 @@ De hecho, no tuvo mucha popularidad en sus cinco primeros años de vida, y hasta
 
 ## 2' ¿Qué es Android Studio?
 ![Android_Studio_icon_(2023) svg (1)](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/86583ca7-abfc-4831-86c1-a7b89632321d)
-
+## introduccion
 Android Studio es el entorno de desarrollo integrado (IDE) oficial para el sistema operativo Android, creado por Google. Está diseñado específicamente para el desarrollo de aplicaciones Android y se basa en el software IntelliJ IDEA de JetBrains. </br>
 Android Studio permite: </br>
 <ul>
@@ -73,7 +73,6 @@ Notas de la versión desde la página oficial: https://developer.android.com/stu
 </br>
  
 <strong><h3>Versiónes anteriores de Android Studio</h3></strong>
- ## Introducción
 <table>
     <tr>
       <th>Nombre</th>
