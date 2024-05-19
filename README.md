@@ -63,7 +63,7 @@ Android Studio permite: </br>
 </ul>
 <strong><h3>Versión actual</h3></strong>
 
-Android Studio coloca el nombre de sus actualizaciones por orden alfabético y con un animal, actualmente (30 de marzo 2024) nos encontramos en la versión "Iguana",
+Android Studio coloca el nombre de sus actualizaciones por orden alfabético y con un animal, actualmente (19 de mayo 2024) nos encontramos en la versión "Jellyfish" o "Medusa",
 Notas de la versión desde la página oficial: https://developer.android.com/studio/releases?hl=es-419 
 
 </br>
@@ -107,15 +107,15 @@ Notas de la versión desde la página oficial: https://developer.android.com/stu
       <td>2023.1.1</td>
     </tr>
     <tr>
-      <td style="background-color: #cfc;">Versión actual: Iguana</td>
+      <td style="background-color: #cfc;">Iguana</td>
       <td style="background-color: #cfc;">2023.2.1</td>
     </tr>
     <tr>
-      <td style="background-color: #fffacd;">Versión siguiente: Jellyfish (Medusa)</td>
+      <td style="background-color: #fffacd;">Versión actual: Jellyfish (Medusa)</td>
       <td style="background-color: #fffacd;">2023.3.1</td>
     </tr>
   </table>
-  <p>Avisaré en el canal de Teams salga esta nueva versión🫣</p>
+  <p>Avisaré en el canal de Teams salga la nueva versión "Koala" 🫣</p>
 
  
 PEQUEÑO PARENTESIS: para el sistema operativo Android, las versiones tambien están ordenadas alfabeticamente pero en lugar de animales usan golosinas:
