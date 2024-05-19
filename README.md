@@ -5,41 +5,40 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [1. ¿Qué es Kotlin?](#qué-es-kotlin)<br>
 > [2. ¿Qué es Android Studio y como instalarlo?](#2-qué-es-android-studio)<br>
 > [3. Partes de Android Studio](#3-partes-de-android-studio)<br>
-> [4. Creación de emuladores]<br>
-> [5. Carpetas de un proyecto]<br>
-> [6. Stuff: como llevar el proyecto en USB, como usar git, etc]<br>
-> [7. Creación de un proyecto]
-> [8. Crear Activitys]
-> [9. Código inicial de una Activity]
-> [10. POO en Kotlin]
-> [11. Navegación entre pantallas]
-> [12. Elementos visuales con XML]
-> [13. Uso de Layouts]
-> [14. Uso camara, microfono y perifericos]
-> [15. Fragments]
-> [16. Navigation Drawer]
-> [17. Bottom Navigation]
-> [18. RecyclerView]
-> [19. Gradle]
-> [20. Conexión a Bases de datos en Oracle]
-> [21. Agregar datos]
-> [22. Mostrar datos]
-> [23. Eliminar datos]
-> [24. Actualizar datos]
-> [25. Conexión con Firebase]
-> [26. Corrutinas]
-> [27. Envío de correos eléctronicos]
-> [28. Notificaciones a tiempo real]
-> [29. Mapas y ubicación a tiempo real]
-> [30. ViewBinding]
-> [31. Inyección de dependencias con Dagger Hilt]
-> [32. Publicación de la aplicación en la Play Store]
-> [33. Testing]
-> [34. Agregar anuncios con Google Ads]
-> [35. Consumo de APIS con Retrofit]
-> [36. Arquitectura de software MvvM]
-> [37. Errores comunes]
-
+> [4. Creación de emuladores](#4-creación-de-emuladores)<br>
+> [5. Carpetas de un proyecto](#5-carpetas-de-un-proyecto)<br>
+> [6. Stuff: como llevar el proyecto en USB, como usar git, etc](#6-stuff-como-llevar-el-proyecto-en-usb-como-usar-git-etc)<br>
+> [7. Creación de un proyecto](#7-creación-de-un-nuevo-proyecto)<br>
+> [8. Crear Activitys](#8-crear-activitys)<br>
+> [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
+> [10. POO en Kotlin]()<br>
+> [11. Navegación entre pantallas]()<br>
+> [12. Elementos visuales con XML]()<br>
+> [13. Uso de Layouts]()<br>
+> [14. Uso camara, microfono y perifericos]()<br>
+> [15. Fragments]()<br>
+> [16. Navigation Drawer]()<br>
+> [17. Bottom Navigation]()<br>
+> [18. RecyclerView]()<br>
+> [19. Gradle]()<br>
+> [20. Conexión a Bases de datos en Oracle]()<br>
+> [21. Agregar datos]()<br>
+> [22. Mostrar datos]()<br>
+> [23. Eliminar datos]()<br>
+> [24. Actualizar datos]()<br>
+> [25. Conexión con Firebase]()<br>
+> [26. Corrutinas]()<br>
+> [27. Envío de correos eléctronicos]()<br>
+> [28. Notificaciones a tiempo real]()<br>
+> [29. Mapas y ubicación a tiempo real]()<br>
+> [30. ViewBinding]()<br>
+> [31. Inyección de dependencias con Dagger Hilt]()<br>
+> [32. Publicación de la aplicación en la Play Store]()<br>
+> [33. Testing]()<br>
+> [34. Agregar anuncios con Google Ads]()<br>
+> [35. Consumo de APIS con Retrofit]()<br>
+> [36. Arquitectura de software MvvM]()<br>
+> [37. Errores comunes]()<br>
 
 </br></br></br>
 ## ¿Qué es Kotlin?
