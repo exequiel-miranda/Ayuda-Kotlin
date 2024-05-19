@@ -1,46 +1,44 @@
 # Repositorio para aprender Kotlin
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
 <br>
-> Tabla de contenidos que veremos en el módulo:<br><br>
-> [1' Introducción](#) <br>
-> [2' ¿Qué es Kotlin?](#qué-es-Kotlin)<br>
-> 3. ¿Qué es Android Studio y como instalarlo?<br>
-> 4. Partes de Android Studio<br>
-> 5. Creación de emuladores<br>
-> 6. Carpetas de un proyecto<br>
-> 7. Stuff: como llevar el proyecto en USB, como usar git, etc
-> 8. Creación de un proyecto
-> 9. Crear Activitys
-> 10. Código inicial de una Activity
-> 11. POO en Kotlin
-> 12. Navegación entre pantallas
-> 13. Elementos visuales con XML
-> 14. Uso de Layouts
-> 15. Uso camara, microfono y perifericos
-> 16. Fragments
-> 17. Navigation Drawer
-> 18. Bottom Navigation
-> 19. RecyclerView
-> 20. Gradle
-> 21. Conexión a Bases de datos en Oracle
-> 22. Agregar datos
-> 23. Mostrar datos
-> 24. Eliminar datos
-> 25. Actualizar datos
-> 26. Conexión con Firebase
-> 27. Corrutinas
-> 28. Envío de correos eléctronicos
-> 29. Notificaciones a tiempo real
-> 30. Mapas y ubicación a tiempo real
-> 31. ViewBinding
-> 32. Inyección de dependencias con Dagger Hilt
-> 33. Publicación de la aplicación en la Play Store
-> 34. Testing
-> 35. Agregar anuncios con Google Ads
-> 36. Consumo de APIS con Retrofit
-> 37. Arquitectura de software MvvM
-> 38. Errores comunes
-
+> Tabla de contenidos que veremos en el módulo:
+> [1. ¿Qué es Kotlin?](#que-es-kolin)
+> 2. ¿Qué es Android Studio y como instalarlo?
+> 3. Partes de Android Studio
+> 4. Creación de emuladores
+> 5. Carpetas de un proyecto
+> 6. Stuff: como llevar el proyecto en USB, como usar git, etc
+> 7. Creación de un proyecto
+> 8. Crear Activitys
+> 9. Código inicial de una Activity
+> 10. POO en Kotlin
+> 11. Navegación entre pantallas
+> 12. Elementos visuales con XML
+> 13. Uso de Layouts
+> 14. Uso camara, microfono y perifericos
+> 15. Fragments
+> 16. Navigation Drawer
+> 17. Bottom Navigation
+> 18. RecyclerView
+> 19. Gradle
+> 20. Conexión a Bases de datos en Oracle
+> 21. Agregar datos
+> 22. Mostrar datos
+> 23. Eliminar datos
+> 24. Actualizar datos
+> 25. Conexión con Firebase
+> 26. Corrutinas
+> 27. Envío de correos eléctronicos
+> 28. Notificaciones a tiempo real
+> 29. Mapas y ubicación a tiempo real
+> 30. ViewBinding
+> 31. Inyección de dependencias con Dagger Hilt
+> 32. Publicación de la aplicación en la Play Store
+> 33. Testing
+> 34. Agregar anuncios con Google Ads
+> 35. Consumo de APIS con Retrofit
+> 36. Arquitectura de software MvvM
+> 37. Errores comunes
 
 
 </br></br></br>
