@@ -2,7 +2,7 @@
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
 <br>
 > Tabla de contenidos que veremos en el módulo:
-> [1. ¿Qué es Kotlin?](#que-es-kolin)
+> [1. ¿Qué es Kotlin?](#que-es-kotlin)
 > 2. ¿Qué es Android Studio y como instalarlo?
 > 3. Partes de Android Studio
 > 4. Creación de emuladores
