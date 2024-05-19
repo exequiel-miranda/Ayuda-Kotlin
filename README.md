@@ -2,7 +2,7 @@
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
 
 > Tabla de contenidos que veremos en el módulo:
-> * [¿Cómo funciona?](#como-funciona)
+> * [Introducción](#introduccion)
 > 1. ¿Qué es Kotlin?
 > 2. ¿Qué es Android Studio y como instalarlo?
 > 3. Partes de Android Studio
@@ -48,7 +48,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 ![Kotlin_Icon](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/2f5cee5f-68e2-4526-9b9e-c319490ed405) </br>
 Kotlin es un lenguaje de programación de código abierto creado por JetBrains que se ha popularizado gracias a que se puede utilizar para programar aplicaciones Android.
 Este lenguaje es de tipado estático, es totalmente interoperable con código Java, o sea que en un mismo proyecto puedo tener código Kotlin y Java, lo que permite migrar de una forma gradual los proyectos de Java.
-### ¿Cómo funciona?
+
 Historia de Kotlin </br>
 La historia de Kotlin empieza en 2010, cuando JetBrains, la famosa empresa creadora de varios de los IDE más usados, como IntelliJ o WebStorm entre otros, publicó la primera versión de este lenguaje de programación.
 En 2012 pasó a ser de código abierto, por lo que es un sistema de programación relativamente reciente.
@@ -73,7 +73,7 @@ Notas de la versión desde la página oficial: https://developer.android.com/stu
 </br>
  
 <strong><h3>Versiónes anteriores de Android Studio</h3></strong>
- 
+ ## Introducción
 <table>
     <tr>
       <th>Nombre</th>
