@@ -1,14 +1,13 @@
 # Repositorio para aprender Kotlin
 Este repositorio se actualizará todos los dias con el contenido visto en clase, si faltó a una clase o quiere encontrar el contenido en un solo lugar, puede visitar este repositorio, se subirán documentos, videos, noticias, guias, presentaciones, etc. Al igual que en el canal de Teams </br></br></br>
-
-> Tabla de contenidos que veremos en el módulo:
-
-> 1. ¿Qué es Kotlin? <br>
-> [2' ¿Qué es Kotlin?](#qué-es-Kotlin)
-> 3. ¿Qué es Android Studio y como instalarlo?
-> 4. Partes de Android Studio
-> 5. Creación de emuladores
-> 6. Carpetas de un proyecto
+<br>
+> Tabla de contenidos que veremos en el módulo:<br><br>
+> [1' Introducción](#) <br>
+> [2' ¿Qué es Kotlin?](#qué-es-Kotlin)<br>
+> 3. ¿Qué es Android Studio y como instalarlo?<br>
+> 4. Partes de Android Studio<br>
+> 5. Creación de emuladores<br>
+> 6. Carpetas de un proyecto<br>
 > 7. Stuff: como llevar el proyecto en USB, como usar git, etc
 > 8. Creación de un proyecto
 > 9. Crear Activitys
