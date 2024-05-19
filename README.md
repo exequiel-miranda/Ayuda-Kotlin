@@ -12,33 +12,33 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [8. Crear Activitys](#8-crear-activitys)<br>
 > [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
 > [10. POO en Kotlin]()<br>
-> [11. Navegación entre pantallas()<br>
-> [12. Elementos visuales con XML]()<br>
-> [13. Uso de Layouts]()<br>
-> [14. Uso camara, microfono y perifericos]()<br>
-> [15. Fragments]()<br>
-> [16. Navigation Drawer]()<br>
-> [17. Bottom Navigation]()<br>
-> [18. RecyclerView]()<br>
-> [19. Gradle]()<br>
-> [20. Conexión a Bases de datos en Oracle]()<br>
-> [21. Agregar datos]()<br>
-> [22. Mostrar datos]()<br>
-> [23. Eliminar datos]()<br>
-> [24. Actualizar datos]()<br>
-> [25. Conexión con Firebase]()<br>
-> [26. Corrutinas]()<br>
-> [27. Envío de correos eléctronicos]()<br>
-> [28. Notificaciones a tiempo real]()<br>
-> [29. Mapas y ubicación a tiempo real]()<br>
-> [30. ViewBinding]()<br>
-> [31. Inyección de dependencias con Dagger Hilt]()<br>
-> [32. Publicación de la aplicación en la Play Store]()<br>
-> [33. Testing]()<br>
-> [34. Agregar anuncios con Google Ads]()<br>
-> [35. Consumo de APIS con Retrofit]()<br>
-> [36. Arquitectura de software MvvM]()<br>
-> [37. Errores comunes]()<br>
+> [11. Navegación entre pantallas<br>
+> [12. Elementos visuales con XML<br>
+> [13. Uso de Layouts<br>
+> [14. Uso camara, microfono y perifericos<br>
+> [15. Fragments<br>
+> [16. Navigation Drawer<br>
+> [17. Bottom Navigation<br>
+> [18. RecyclerView<br>
+> [19. Gradle<br>
+> [20. Conexión a Bases de datos en Oracle<br>
+> [21. Agregar datos<br>
+> [22. Mostrar datos<br>
+> [23. Eliminar datos<br>
+> [24. Actualizar datos<br>
+> [25. Conexión con Firebase<br>
+> [26. Corrutinas<br>
+> [27. Envío de correos eléctronicos<br>
+> [28. Notificaciones a tiempo real<br>
+> [29. Mapas y ubicación a tiempo real<br>
+> [30. ViewBinding<br>
+> [31. Inyección de dependencias con Dagger Hilt<br>
+> [32. Publicación de la aplicación en la Play Store<br>
+> [33. Testing<br>
+> [34. Agregar anuncios con Google Ads<br>
+> [35. Consumo de APIS con Retrofit<br>
+> [36. Arquitectura de software MvvM<br>
+> [37. Errores comunes<br>
 
 </br></br></br>
 ## ¿Qué es Kotlin?
