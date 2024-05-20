@@ -11,7 +11,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [7. Creación de un proyecto](#7-creación-de-un-nuevo-proyecto)<br>
 > [8. Crear Activitys](#8-crear-activitys)<br>
 > [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
-> [10. Variables y POO (funciones, try catch, herencia, etc.)]<br>
+> [10. Variables y POO (funciones, try catch, herencia, etc.]<br>
 > [11. Navegación entre pantallas<br>
 > [12. Elementos visuales con XML<br>
 > [13. Uso de Layouts<br>
@@ -526,9 +526,21 @@ Esta línea establece el diseño de la interfaz de usuario de la actividad. El p
 
 ## 10' POO en Kotlin
 
-Antes de empezar a hablar de herencia, encapsulamiento y otras cosas de la programación orientada a objetos, veo conveniente hablar 
+### Variables
 
+Podemos declarar variables de dos maneras: utilizando la palabra reservada "var" o la palabra reservada "val"
 
+<strong>var</strong>: Se utiliza para declarar variables que cambian de valor durante el transcurso del código
+por ejemplo:
+var temperatura = 29.4
+var velocidad = 80km/h
+son valores que pueden estar cambiando
+
+<strong>val</strong>: Se utiliza para declarar variables que no cambian de valor, es como una "Constante" como la conocemos
+por ejemplo: 
+val numeroPi = 3.14
+val DUI = 05923423-9
+Son valores que no van a cambiar
 
 
 
