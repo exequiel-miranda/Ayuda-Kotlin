@@ -528,21 +528,19 @@ Esta línea establece el diseño de la interfaz de usuario de la actividad. El p
 
 ### Variables
 
-Podemos declarar variables de dos maneras: utilizando la palabra reservada "var" o la palabra reservada "val"
+Podemos declarar variables de dos maneras: utilizando la palabra reservada "var" o la palabra reservada "val" </br>
 
-<strong>var</strong>: Se utiliza para declarar variables que cambian de valor durante el transcurso del código
-por ejemplo:
-var temperatura = 29.4
-var velocidad = 80km/h
-son valores que pueden estar cambiando
+<strong>var</strong>: Se utiliza para declarar variables que cambian de valor durante el transcurso del código </br>
+por ejemplo: </br>
+var temperatura = 29.4 </br>
+var velocidad = 80km/h </br>
+son valores que pueden estar cambiando </br>
 
-<strong>val</strong>: Se utiliza para declarar variables que no cambian de valor, es como una "Constante" como la conocemos
-por ejemplo: 
-val numeroPi = 3.14
-val DUI = 05923423-9
-Son valores que no van a cambiar
+<strong>val</strong>: Se utiliza para declarar variables que no cambian de valor, es como una "Constante" como la conocemos </br>
+por ejemplo:  </br>
+val numeroPi = 3.14 </br>
+val DUI = 05923423-9 </br>
+Son valores que no van a cambiar </br>
 
-
-
-
-
+Opcionalmente, podemos asignarles un tipo de dato, los tipos de datos mas utilizados en Kotlin son: 
+![imagen](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/33b61480-a211-4801-a67a-6c237cf79011)
