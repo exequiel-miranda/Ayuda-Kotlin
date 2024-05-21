@@ -11,7 +11,7 @@ Este repositorio se actualizará todos los dias con el contenido visto en clase,
 > [7. Creación de un proyecto](#7-creación-de-un-nuevo-proyecto)<br>
 > [8. Crear Activitys](#8-crear-activitys)<br>
 > [9. Código inicial de una Activity](#9-código-inicial-de-una-activity)<br>
-> [10. Variables y POO (funciones, try catch, herencia, etc.]<br>
+> [10. Variables y POO (funciones, try catch, herencia, etc.](#10-poo-en-kotlin)<br>
 > [11. Navegación entre pantallas<br>
 > [12. Elementos visuales con XML<br>
 > [13. Uso de Layouts<br>
