@@ -544,3 +544,18 @@ Son valores que no van a cambiar </br>
 
 Opcionalmente, podemos asignarles un tipo de dato, los tipos de datos mas utilizados en Kotlin son: 
 ![imagen](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/33b61480-a211-4801-a67a-6c237cf79011)
+
+Para asignarle un tipo de dato a mi variable lo hago usando dos puntos, de esta manera:</br></br>
+
+<strong>var edad: Int = 25</strong></br>
+<strong>var nombre: String = "Exequiel Miranda"</strong></br>
+<strong>val numeroPi: Float = 3.14f </strong></br>
+</br>
+La asignación del tipo de dato a una vatiable es opcional, pero es recomendado.</br>
+Si nostros no le asignamos un tipo de dato, automaticamente la variable lo asignará, lo "inferirá"</br>
+Por ejemplo, podemos tener la varaible: <strong>var edad = 25</strong> y a pesar de no colocar el tipo de dato, la variable sabe que es de tipo Int</br>
+otro ejemplo: <strong>var nombre = "Exequiel Miranda"</strong> la variable sabe que es String por que el valor está entre comillas y tiene letras</br>
+Se sugiere el uso de variables con tipos para tener un proyecto ordenado y sin posibles errores.</br>
+
+
+
