@@ -555,7 +555,13 @@ La asignación del tipo de dato a una vatiable es opcional, pero es recomendado.
 Si nostros no le asignamos un tipo de dato, automaticamente la variable lo asignará, lo "inferirá"</br>
 Por ejemplo, podemos tener la varaible: <strong>var edad = 25</strong> y a pesar de no colocar el tipo de dato, la variable sabe que es de tipo Int</br>
 otro ejemplo: <strong>var nombre = "Exequiel Miranda"</strong> la variable sabe que es String por que el valor está entre comillas y tiene letras</br>
-Se sugiere el uso de variables con tipos para tener un proyecto ordenado y sin posibles errores.</br>
+Se sugiere el uso de variables con tipos para tener un proyecto ordenado y sin posibles errores.</br></br>
+
+De igual forma, es opcional asignarle un valor inicial, es correcto tambien crear variables de esta forma:</br>
+<strong>var nombre: String</strong></br>
+<strong>var edad: Int</strong></br>
+<strong>val numeroPi: Double</strong></br>
+
 
 
 
