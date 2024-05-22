@@ -563,5 +563,6 @@ De igual forma, es opcional asignarle un valor inicial, es correcto tambien crea
 <strong>val numeroPi: Double</strong></br>
 
 
-
+### Clases en Kotlin
+Las clases en Kotlin se declaran mediante la palabra clave : <strong>class</strong>
 
