@@ -564,5 +564,14 @@ De igual forma, es opcional asignarle un valor inicial, es correcto tambien crea
 
 
 ### Clases en Kotlin
-Las clases en Kotlin se declaran mediante la palabra clave : <strong>class</strong>
+La definición de una clase comienza con la palabra clave class, seguida de un nombre y un conjunto de llaves. La parte de la sintaxis anterior a la llave de apertura también se conoce como encabezado de clase. Entre llaves, puedes especificar las propiedades y funciones de la clase. Pronto aprenderás sobre las propiedades y funciones. Puedes ver la sintaxis de una definición de clase en este diagrama:
+![image](https://github.com/exequiel-miranda/Ayuda-Kotlin/assets/94820436/fb4445f5-6bb9-4fa4-a755-fee7a2047d56)
+
+Sugerencias:</br>
+-El nombre de la clase está escrito en PascalCase, por lo que cada palabra comienza con mayúscula y no hay espacios entre ellas. Por ejemplo, en SmartDevice, la primera letra de cada palabra aparece en mayúscula y no hay un espacio entre ellas.</br></br>
+
+Una clase consta de tres partes principales:</br>
+-Propiedades. Son variables que especifican los atributos de los objetos de la clase.</br>
+-Métodos. Son funciones que contienen los comportamientos y las acciones de la clase.</br>
+-Constructores. Una función de miembro especial que crea instancias de la clase a lo largo del programa en el que se define.</br>
 
